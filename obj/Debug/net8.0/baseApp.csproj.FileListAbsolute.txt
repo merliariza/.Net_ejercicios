@@ -1,0 +1,14 @@
+/home/camper/Documentos/ejercicios_c#/obj/Debug/net8.0/baseApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/camper/Documentos/ejercicios_c#/obj/Debug/net8.0/baseApp.AssemblyInfoInputs.cache
+/home/camper/Documentos/ejercicios_c#/obj/Debug/net8.0/baseApp.AssemblyInfo.cs
+/home/camper/Documentos/ejercicios_c#/obj/Debug/net8.0/baseApp.csproj.CoreCompileInputs.cache
+/home/camper/Documentos/ejercicios_c#/bin/Debug/net8.0/baseApp
+/home/camper/Documentos/ejercicios_c#/bin/Debug/net8.0/baseApp.deps.json
+/home/camper/Documentos/ejercicios_c#/bin/Debug/net8.0/baseApp.runtimeconfig.json
+/home/camper/Documentos/ejercicios_c#/bin/Debug/net8.0/baseApp.dll
+/home/camper/Documentos/ejercicios_c#/bin/Debug/net8.0/baseApp.pdb
+/home/camper/Documentos/ejercicios_c#/obj/Debug/net8.0/baseApp.dll
+/home/camper/Documentos/ejercicios_c#/obj/Debug/net8.0/refint/baseApp.dll
+/home/camper/Documentos/ejercicios_c#/obj/Debug/net8.0/baseApp.pdb
+/home/camper/Documentos/ejercicios_c#/obj/Debug/net8.0/baseApp.genruntimeconfig.cache
+/home/camper/Documentos/ejercicios_c#/obj/Debug/net8.0/ref/baseApp.dll
